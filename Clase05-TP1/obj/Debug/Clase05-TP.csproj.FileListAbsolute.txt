@@ -1,0 +1,26 @@
+D:\Mis documentos\Lucas.Gualpa-2016-2C\Clase05-TP\bin\Debug\Clase05-TP.exe.config
+D:\Mis documentos\Lucas.Gualpa-2016-2C\Clase05-TP\bin\Debug\Clase05-TP.exe
+D:\Mis documentos\Lucas.Gualpa-2016-2C\Clase05-TP\bin\Debug\Clase05-TP.pdb
+D:\Mis documentos\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05_TP.Form1.resources
+D:\Mis documentos\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05_TP.Properties.Resources.resources
+D:\Mis documentos\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05-TP.csproj.GenerateResource.Cache
+D:\Mis documentos\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05-TP.exe
+D:\Mis documentos\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05-TP.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05-TP.csprojResolveAssemblyReference.cache
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05_TP.Form1.resources
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05_TP.Properties.Resources.resources
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05-TP.csproj.GenerateResource.Cache
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05-TP.exe
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05-TP.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Lucas.Gualpa-2016-2C\Clase05-TP\bin\Debug\Clase05-TP.exe.config
+C:\Users\LuKaS\Desktop\Lucas.Gualpa-2016-2C\Clase05-TP\bin\Debug\Clase05-TP.exe.config
+C:\Users\LuKaS\Desktop\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05-TP.exe
+C:\Users\LuKaS\Desktop\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05-TP.pdb
+C:\Users\LuKaS\Desktop\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05-TP.csprojResolveAssemblyReference.cache
+C:\Users\LuKaS\Desktop\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05_TP.Form1.resources
+C:\Users\LuKaS\Desktop\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05_TP.Properties.Resources.resources
+C:\Users\LuKaS\Desktop\Lucas.Gualpa-2016-2C\Clase05-TP\obj\Debug\Clase05-TP.csproj.GenerateResource.Cache
+C:\Users\LuKaS\Desktop\Lucas.Gualpa-2016-2C\Clase05-TP\bin\Debug\Clase05-TP.exe
+C:\Users\LuKaS\Desktop\Lucas.Gualpa-2016-2C\Clase05-TP\bin\Debug\Clase05-TP.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Lucas.Gualpa-2016-2C\Clase05-TP\bin\Debug\Clase05-TP.exe
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Lucas.Gualpa-2016-2C\Clase05-TP\bin\Debug\Clase05-TP.pdb
