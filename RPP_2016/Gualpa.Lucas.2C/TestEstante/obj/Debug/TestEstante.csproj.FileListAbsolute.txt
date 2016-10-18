@@ -1,0 +1,16 @@
+C:\Users\LuKaS\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+C:\Users\LuKaS\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\LuKaS\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\LuKaS\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\LuKaS\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\bin\Debug\Recuperatorio.Primer.Parcial.dll
+C:\Users\LuKaS\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\bin\Debug\Recuperatorio.Primer.Parcial.pdb
+C:\Users\LuKaS\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\LuKaS\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\obj\Debug\TestEstante.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\obj\Debug\TestEstante.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\bin\Debug\Recuperatorio.Primer.Parcial.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\bin\Debug\Recuperatorio.Primer.Parcial.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\obj\Debug\FormEstante.csprojResolveAssemblyReference.cache
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\obj\Debug\FormEstante.Form1.resources
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\obj\Debug\FormEstante.Properties.Resources.resources
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\bin\Debug\FormEstante.exe.config
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\bin\Debug\FormEstante.exe
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\bin\Debug\FormEstante.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\bin\Debug\Recuperatorio.Primer.Parcial.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\bin\Debug\TestEstante.exe
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\bin\Debug\Recuperatorio.Primer.Parcial.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\bin\Debug\TestEstante.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\obj\Debug\FormEstante.exe
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\Gualpa.Lucas.2C\FormEstante\obj\Debug\FormEstante.pdb
