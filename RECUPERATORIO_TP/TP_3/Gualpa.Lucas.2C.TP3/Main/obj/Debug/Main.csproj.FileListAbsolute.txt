@@ -1,0 +1,28 @@
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Main.exe
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Main.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\obj\Debug\Main.exe
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\obj\Debug\Main.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\obj\Debug\Main.exe
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\obj\Debug\Main.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Main.exe
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Main.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache

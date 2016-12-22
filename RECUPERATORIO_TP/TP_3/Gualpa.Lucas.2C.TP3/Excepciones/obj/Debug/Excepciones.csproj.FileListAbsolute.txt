@@ -1,0 +1,4 @@
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

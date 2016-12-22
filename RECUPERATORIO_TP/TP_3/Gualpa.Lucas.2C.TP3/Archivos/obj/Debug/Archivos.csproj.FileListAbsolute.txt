@@ -1,0 +1,14 @@
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\TP_3\Gualpa.Lucas.2C.TP3\Archivos\obj\Debug\Archivos.pdb
