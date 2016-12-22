@@ -1,0 +1,7 @@
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\Ldelucas64bit\Documents\Visual Studio 2012\Projects\TP_3\Gualpa.Lucas.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
