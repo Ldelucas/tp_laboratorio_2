@@ -1,0 +1,92 @@
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Navegador\bin\Debug\Navegador.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Navegador\bin\Debug\Navegador.exe
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Navegador\bin\Debug\Navegador.pdb
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Navegador\obj\Debug\Navegador.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Navegador\obj\Debug\Navegador.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Navegador\obj\Debug\Navegador.exe
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Navegador\obj\Debug\Navegador.pdb
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Navegador\obj\Debug\Navegador.frmWebBrowser.resources
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Navegador\bin\Debug\Hilo.dll
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Navegador\bin\Debug\Hilo.pdb
+C:\Users\profesor\Downloads\Navegador TP-4\Navegador\bin\Debug\Navegador.exe.config
+C:\Users\profesor\Downloads\Navegador TP-4\Navegador\obj\Debug\Navegador.exe
+C:\Users\profesor\Downloads\Navegador TP-4\Navegador\obj\Debug\Navegador.pdb
+C:\Users\profesor\Downloads\Navegador TP-4\Navegador\bin\Debug\Navegador.exe
+C:\Users\profesor\Downloads\Navegador TP-4\Navegador\bin\Debug\Navegador.pdb
+C:\Users\profesor\Downloads\Navegador TP-4\Navegador\bin\Debug\Hilo.dll
+C:\Users\profesor\Downloads\Navegador TP-4\Navegador\bin\Debug\Hilo.pdb
+C:\Users\profesor\Downloads\Navegador TP-4\Navegador\obj\Debug\Navegador.csprojResolveAssemblyReference.cache
+C:\Users\profesor\Downloads\Navegador TP-4\Navegador\obj\Debug\Navegador.frmWebBrowser.resources
+C:\Users\profesor\Downloads\Navegador TP-4\Navegador\obj\Debug\Navegador.Properties.Resources.resources
+C:\Users\profesor\Downloads\Navegador TP-4\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\bin\Debug\Navegador.exe.config
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\obj\Debug\Navegador.exe
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\obj\Debug\Navegador.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\obj\Debug\Navegador.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\obj\Debug\Navegador.frmHistorial.resources
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\obj\Debug\Navegador.frmWebBrowser.resources
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\obj\Debug\Navegador.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\bin\Debug\Navegador.exe
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\bin\Debug\Navegador.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\bin\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\bin\Debug\Hilo.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\bin\Debug\Archivos.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Navegador\bin\Debug\Hilo.pdb
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Navegador.exe.config
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.csprojResolveAssemblyReference.cache
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.frmHistorial.resources
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.frmWebBrowser.resources
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.Properties.Resources.resources
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Navegador.exe
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Navegador.pdb
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Archivos.dll
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Hilo.dll
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Archivos.pdb
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Hilo.pdb
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.exe
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.pdb
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Navegador.exe.config
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.exe
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.pdb
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Navegador.exe
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Navegador.pdb
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Archivos.dll
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Hilo.dll
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Archivos.pdb
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Hilo.pdb
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.csprojResolveAssemblyReference.cache
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.frmHistorial.resources
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.frmWebBrowser.resources
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.Properties.Resources.resources
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Navegador.exe.config
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.exe
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.pdb
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Navegador.exe
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Navegador.pdb
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Archivos.dll
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Hilo.dll
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Archivos.pdb
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Hilo.pdb
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.csprojResolveAssemblyReference.cache
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.frmHistorial.resources
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.frmWebBrowser.resources
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.Properties.Resources.resources
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Navegador.exe.config
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.exe
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Navegador.exe
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Navegador.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Archivos.dll
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Hilo.dll
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Archivos.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\bin\Debug\Hilo.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.csprojResolveAssemblyReference.cache
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.frmHistorial.resources
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.frmWebBrowser.resources
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.Properties.Resources.resources
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache

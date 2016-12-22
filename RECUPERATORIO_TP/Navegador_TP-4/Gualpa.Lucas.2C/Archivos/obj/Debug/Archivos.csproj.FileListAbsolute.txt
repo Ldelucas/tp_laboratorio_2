@@ -1,0 +1,32 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\bin\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\bin\Debug\Archivos.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\obj\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\obj\Debug\Archivos.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\bin\Debug\Excepciones.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\bin\Debug\Excepciones.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\obj\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\obj\Debug\Archivos.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\bin\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\bin\Debug\Archivos.dll
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\obj\Debug\Archivos.dll
+C:\Users\Ldelucas64bit\Desktop\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\obj\Debug\Archivos.pdb
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\bin\Debug\Archivos.dll
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\bin\Debug\Archivos.pdb
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\obj\Debug\Archivos.dll
+E:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\obj\Debug\Archivos.pdb
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\bin\Debug\Archivos.dll
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\bin\Debug\Archivos.pdb
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\obj\Debug\Archivos.dll
+I:\Gualpa.Lucas\Gualpa.Lucas\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\bin\Debug\Archivos.dll
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\obj\Debug\Archivos.dll
+C:\Users\Ldelucas64bit\Documents\GitHub\RECUPERATORIO_TP\Navegador TP-4 - AlumnoV2\Gualpa.Lucas.2C\Archivos\obj\Debug\Archivos.pdb
